@@ -1,0 +1,12 @@
+1. Translator which is used to convert codes of assembly language into machine language is termed as:; a) assembler; b) attempter; c) compiler
+2. Higher-order functions are not built into the:; a) structural language; b) object-oriented programming; c) JAVA
+3. Animations and interactivity with the user on web pages can be done by:; a) PHP; b) Java Script; c) Visual C#
+4. Java Script was first released in:; a) 1980; b) 1987; c) 1995
+5. Language which is based on Pascal is:; a) FORTRAN; b) COBOL; c) Ada; d) C++
+6. What is the purpose of a compiler in programming?; a) To convert source code into machine code; b) To debug the program; c) To execute the program; d) To optimize the program
+7. Which of the following is not a programming language?; a) Python; b) Java; c) HTML; d) SQL
+8. What does the acronym "OOP" stand for in programming?; a) Object-Oriented Programming; b) One-Off Programming; c) Operating System Programming; d) Open-Source Programming
+9. Which of the following symbols are used to write "AND" and "OR" statements?; a) &&; b) ->; c) ||; d) //; e) ()
+10. Which of the following symbols are used to write "EQUAL" and "NOT-EQUAl" statements?; a) +=; b) ==; c) !=; d) =!; e) {}
+11. Which of the following are used to begin a new line:; a) endl; b) //; c) (backslash)t; d)(backslash)n; e) **
+12. Which of the following is invalid?; a) ==; b) ++; c) >.<; d) ?/; e) +=

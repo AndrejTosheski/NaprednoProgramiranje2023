@@ -1,0 +1,4 @@
+﻿  INKI932.lab.08.cpp
+C:\Users\atosh\Desktop\INKI932.lab.08\INKI932.lab.08\INKI932.lab.08\INKI932.lab.08.cpp(60): warning C4715: 'checkOdgovor': not all control paths return a value
+C:\Users\atosh\Desktop\INKI932.lab.08\INKI932.lab.08\INKI932.lab.08\INKI932.lab.08.cpp(111): warning C4715: 'score': not all control paths return a value
+  INKI932.lab.08.vcxproj -> C:\Users\atosh\Desktop\INKI932.lab.08\INKI932.lab.08\x64\Debug\INKI932.lab.08.exe
