@@ -1,0 +1,10 @@
+City: Skopje, Day Temperature: 29, Night Temperature: 14
+City: Ohrid, Day Temperature: 26, Night Temperature: 10
+City: Gevgelija, Day Temperature: 25, Night Temperature: 15
+City: Bitola, Day Temperature: 24, Night Temperature: 9
+City: Prilep, Day Temperature: 23, Night Temperature: 6
+City: Kumanovo, Day Temperature: 20, Night Temperature: 3
+City: Stip, Day Temperature: 19, Night Temperature: 3
+City: Resen, Day Temperature: 19, Night Temperature: 7
+City: Tetovo, Day Temperature: 18, Night Temperature: 5
+City: Debar, Day Temperature: 17, Night Temperature: 2
